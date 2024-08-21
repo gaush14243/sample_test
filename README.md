@@ -1,4 +1,4 @@
-# sample_REPO
+# SampleREPO
 
 ## INTRO
 Hey folks! this is my sample repo. do check it out.
@@ -13,5 +13,9 @@ Let me list some things in bullet for you
 - he
 - hehe
 - hehehe
+
+
+## ADDITIONS ON LOCAL MACHINE
+This para is being added into the local machine and then will be pushed to git. lets see, if we can find this over there?
 
 -GS
